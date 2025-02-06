@@ -38,12 +38,6 @@ void work(int new_fd)
 }
 
 
-void print()
-{
-    std::cout << 999 << std::endl;
-}
-
-
 int main(int argc,char* argv[])
 {
     if(argc != 2)
